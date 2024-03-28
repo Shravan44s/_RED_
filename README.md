@@ -46,9 +46,4 @@ Run the index file in your local host.
  - Difficult [https://www.roblox.com/games/13170779400/]
 
 
-* ### What was accomplished in 24 hours
-
-  -Roblox game scripting
-  -CSS in webpage
-  -period tracking webpage
   
