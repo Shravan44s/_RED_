@@ -1,4 +1,5 @@
 # Red
+Many young women face challenges when it comes to understanding and managing menstruation. Traditional education methods often lack engagement, leaving them feeling unprepared and uncertain about their bodies. Existing period tracking apps may lack comprehensive educational resources and fail to address the holistic needs of users.
 
 ## Contents:
 
