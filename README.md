@@ -36,12 +36,12 @@ Creating a website and a game related to menstruation.
 
 * ### Installation steps
 
-Download the [github repository](https://github.com/Shravan44s/Red/archive/refs/heads/main.zip) which will download a zip file of the project. 
+Download the [github repository](https://github.com/Shravan44s/_RED_/archive/refs/heads/main.zip) which will download a zip file of the project. 
 
 One can also use git clone code for the following
 
 
-git clone https://github.com/Shravan44s/Red.git
+git clone https://github.com/Shravan44s/_RED_.git
 
 
 Import the SQL file into your Database Management Tool (preferably phpMyAdmin).
